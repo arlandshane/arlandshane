@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arlandshane
 - 👀 I’m interested in web development and Java programming
 - 🌱 I’m currently learning web development from Udemy
-- 📫 How to reach me arlandshane@gmail.com
+- 📫 How to reach me public@arlandshane.com
 - 💪 Visit my webiste https://www.arlandshane.com
